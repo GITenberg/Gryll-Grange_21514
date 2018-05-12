@@ -1,0 +1,53 @@
+_repo: Gryll-Grange_21514
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+  illustrator:
+    agent_name: Townsend, F. H. (Frederick Henry)
+    aliases:
+    - Townsend, Frederick Henry
+    - Townsend, F.H.
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '9854'
+    url: http://www.gutenberg.org/2009/agents/9854
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peacock, Thomas Love
+    aliases:
+    - Peacock, T. Love (Thomas Love)
+    - Peacock, T. L. (Thomas Love)
+    birthdate: 1785
+    deathdate: 1866
+    gutenberg_agent_id: '493'
+    url: http://www.gutenberg.org/2009/agents/493
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Love_Peacock
+description: 'Peacock''s seventh and final novel, published in 1861, brought a mellow
+  tone to the author''s satire but found his discursive powers intact. Included are
+  several poems, a wedding for eighteen, comedy, philosophy, and satire. An 1896 review
+  in the New York Times opined: Sentimental adventures, love making, and festival
+  making comprise the framework only of this singular work, which is full of learning,
+  classical and strange, and rich in poetry.'
+gutenberg_issued: '2007-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+title: Gryll Grange
+url: http://www.gutenberg.org/ebooks/21514
