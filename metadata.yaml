@@ -38,6 +38,8 @@ description: 'Peacock''s seventh and final novel, published in 1861, brought a m
   in the New York Times opined: Sentimental adventures, love making, and festival
   making comprise the framework only of this singular work, which is full of learning,
   classical and strange, and rich in poetry.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21514#Gryll-Grange
 gutenberg_issued: '2007-05-17'
 gutenberg_type: Text
 identifiers:
