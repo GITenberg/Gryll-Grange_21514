@@ -15,6 +15,7 @@ Commentator: George Saintsbury
 Illustrator: F. H. Townsend
 
 Release Date: May 17, 2007 [EBook #21514]
+Last Updated: March 3, 2017
 
 Language: English
 
@@ -651,8 +652,8 @@ CHAPTER II
 
 THE SQUIRE AND HIS NIECE
 
-     FORTUNA  .   SPONDET .   MULTA  .   MULTIS  .   PRAESTAT .
-     NEM1NI  . VIVE .   IN .   DIES .  ET .   HORAS .  NAM  .
+     FORTUNA  .   SPONDET .   MULTA  .   MULTIS  .   PRESTAT .
+     NEMINI  . VIVE .   IN .   DIES .  ET .   HORAS .  NAM  .
      PROPRIUM  .   EST .   NIHIL.{1} Marmor vetus apud Feam, ad
      Hor. Epist. i. ii, 23.
 
@@ -2574,7 +2575,7 @@ visitors. He urgently invited Mr. Falconer to visit him in return. The
 invitation was cordially accepted, and in the meantime considerable
 progress had been made in the Aristophanic comedy. Mr. Falconer, after
 the departure of his visitors, went up into his library. He took down
-oner book after another, but they did not fix his attention as they used
+one book after another, but they did not fix his attention as they used
 to do; he turned over the leaves of Homer, and read some passages about
 Circe; then took down Bojardo, and read of Morgana and Falerina and
 Dragontina; then took down Tasso and read of Armida. He would not look
@@ -3075,7 +3076,7 @@ unanatomisable volaille behind a Russian screen with the footmen?
      tell from which dish it arose, though I did not question but
      it lay disguised in one of them. Upon turning my head I saw
      a noble sirloin on the side-table, smoking in the most
-     delicious manner. I bad recourse to it more than once, and
+     delicious manner. I had recourse to it more than once, and
      could not see without some indignation that substantial
      English dish banished in so ignominious a manner, to make
      way for French kickshaws.--Taller. No. 148.
@@ -3321,7 +3322,7 @@ perspective.
 
 _The Rev. Dr. Opimian._ Observing that they had no need of it. Their
 subject was a foreground like a relievo. Their background was a symbol,
-not a representation. 'No knowledge* is perhaps too strong. They had
+not a representation. 'No knowledge' is perhaps too strong. They had
 it where it was essential. They drew a peristyle, as it appeared to the
 eye, as accurately as we can do. In short, they gave to each distinct
 object its own proper perspective, but to separate objects they did not
@@ -3388,7 +3389,7 @@ _Mr. MacBorrowdale._ He was a man who travelled in search of a greater
 fool than himself, and did not find him.{1}
 
      1 _Jacke of Dover His Quest of Inquirie, or His Privy Search
-     for the Veriest Foote in England._ London, 1604. Reprinted
+     for the Veriest Foole in England._ London, 1604. Reprinted
      for the Percy Society, 1842.
 
 _The Rev. Dr. Opimian._ He must have lived in odd times. In our days
@@ -4196,7 +4197,7 @@ not have been lightly given up.
 
 If her heart had been as much interested in _Lord Curryfin._ as it was
 in Mr. Falconer, she would quickly have detected a diminution in
-the ardour of his pursuit; but so for as she might have noticed any
+the ardour of his pursuit; but so far as she might have noticed any
 différence in his conduct, she ascribed it only to deference to her
 recommendation to 'wait till they were better acquainted.' The longer
 and the more quietly he waited, the better it seemed to please her. It
@@ -4406,7 +4407,7 @@ many political disquisitions. It is still in my possession, and I look
 on it with veneration as my principal tutor, for it had certainly a
 large share in the elements of my education. If, which does not seem
 likely, another reform lunacy should arise in my time, I shall take care
-to close my shutters against "The power of public opinion.1"
+to close my shutters against "The power of public opinion."
 
 The Reverend Doctor Opimian being called on to contribute his share to
 these diversions of rainy afternoons, said--
@@ -4859,7 +4860,7 @@ place. It was desirable to reverse this.
 
 _The Rev. Dr. Opimian._ True: but--
 
-     'dum vitant stulli vitium, in contraria currunl.' {1}
+     'dum vitant stulli vitium, in contraria curruni.' {1}
 
      1 When fools would from one vice take flight. They rush into
      its opposite.--Hor. Sal. i. 2, 24.
@@ -4915,7 +4916,7 @@ Innamorato_; and I was at the moment occupied with a passage about
 the enchantress from whom my name was borrowed. You are aware that
 enchantresses are in great favour here.
 
-_Algernon._ Circe and Gryllus, and your name, sufficiently show that And
+_Algernon._ Circe and Gryllus, and your name, sufficiently show that. And
 not your name only, but----I should like to see the passage, and should
 be still better pleased if you would read it to me.
 
@@ -4989,7 +4990,7 @@ liberate his friends.
      sisters. They are enchantresses; but they differ from other
      enchantresses in being immortal. They are beautiful, loo,
      and their beauty is immortal: always in Bojardo. He would
-     not huvu turned Alcina into an old woman, as Arioslo did;
+     not have turned Alcina into an old woman, as Ariosto did;
      which I must always consider a dreadful blemish on the many
      charms of the _Orlando Furioso_.
 
@@ -5468,7 +5469,7 @@ would not have me; and the rest are afraid. We are all something to do
 with the land and the wood; farmers, and foresters, and nurserymen, and
 all that. And we have all opened our hearts to one another. They don't
 pretend to look above us; but it seems somehow as if they did, and
-couldn't help it They are so like young ladies. They daze us, like. Why,
+couldn't help it. They are so like young ladies. They daze us, like. Why,
 if they'd have us, they'd be all in reach of one another. Fancy what a
 family party there'd be at Christmas. We just want a good friend to
 put a good foot foremost for us; and if the young gentleman does marry,
@@ -5531,7 +5532,7 @@ I like the idea of the Yule-log, the enormous block of wood carefully
 selected long before, and preserved where it would be thoroughly dry,
 which burned on the old-fashioned hearth. It would not suit the stoves
 of our modem saloons. We could not burn it in our kitchens, where a
-small fire in the midst of a mats of black iron, roasts, and bakes,
+small fire in the midst of a mass of black iron, roasts, and bakes,
 and boils, and steams, and broils, and fries, by a complicated apparatus
 which, whatever may be its other virtues, leaves no space for a
 Christmas fire. I like the festoons of holly on the walls and windows;
@@ -5541,15 +5542,15 @@ at the poles; the tapping of the old October; the inexhaustible bowl
 of punch; the life and joy of the old hall, when the squire and his
 household and his neighbourhood were as one. I like the idea of what has
 gone, and I can still enjoy the reality of what remains. I have no doubt
-Harry's father bums the Yule-log, and taps the old October. Perhaps,
-instead of the beef, he produces a fat pig roasted «hole, like Eumaeus,
+Harry's father burns the Yule-log, and taps the old October. Perhaps,
+instead of the beef, he produces a fat pig roasted whole, like Eumaeus,
 the divine swineherd in the _Odyssey_. How Harry will burn the Yule-log
 if he can realise this day-dream of himself and his six friends with
 the seven sisters! I shall make myself acquainted with the position and
 characters of these young suitors. To be sure, it is not my business,
 and I ought to recollect the words of Cicero: "Est enim difficilis cura
 rerum alienarum: quamquam Terentianus ille Chrêmes humani nihil a se
-alienum putat."{1} I hold with. Chrêmes too. I am not without hope, from
+alienum putat."{1} I hold with Chrêmes too. I am not without hope, from
 some symptoms I have lately seen, that rumour, in the present case, is
 in a fair way of being right; and if, with the accordance of the young
 gentleman as key-note, these two heptachords should harmonise into a
@@ -5606,7 +5607,7 @@ danced the _Minuet de la Cour_.
 Having once done it, they had been often unanimously requested to repeat
 it. In this they had no competitors. Miss Gryll confined herself to
 quadrilles, and Mr. Falconer did not even propose to walk through one
-with her. When dancing brought into Miss Nipher/s cheeks the blush-rose
+with her. When dancing brought into Miss Niphet's cheeks the blush-rose
 bloom, which had more than once before so charmed Lord Curryfin, it
 required little penetration to see, through his external decorum, the
 passionate admiration with which he regarded her. Mr. Falconer remarked
@@ -5825,7 +5826,7 @@ eminently accomplished: she spoke many languages with grace and
 facility. Her mind was as wonderful as her personal beauty. There is not
 a shadow of intellectual expression in that horrible portrait.
 
-     1 Dc Pauw, the great depreciator of everything Ægyptian,
+     1 De Pauw, the great depreciator of everything Ægyptian,
      has, on the authority of a passage in Aelian, presumed to
      affix to the countrywomen of Cleopatra the stigma of
      complete and unredeemed ugliness.--Moore's _Epicurean_,
@@ -6102,9 +6103,6 @@ Morgana over rugged rocks and through briery thickets.
      perversion in the concluding stanza, which in all editions
      but the Milanese reads thus: Mentre ch' io canto, ahimè Dio
      redentore...
-
-He was recalled to himself by sinking up to his shoulders of a hollow.
-
 
 'She must have anticipated my coming,' said the young gentleman to
 himself. 'She had opened the book at this passage, and has left it to
@@ -6442,7 +6440,7 @@ very similar, I did not. It does not follow that I was right. On the
 contrary, I think you are right, and I was wrong. You have shown true
 moral courage where it was most needed.
 
-_Miss Gryll._ 1 hope I have not revived any displeasing recollections.
+_Miss Gryll._ I hope I have not revived any displeasing recollections.
 
 _Miss Ilex._ No, my dear, no; the recollections are not displeasing.
 The day-dreams of youth, however fallacious, are a composite of pain and
@@ -6546,7 +6544,7 @@ ever meet him again?
 _Miss Ilex._ Not of late years, but for a time occasionally in general
 society, which he very sparingly entered. Our intercourse was friendly;
 but he never knew, never imagined, how well I loved him, nor even,
-perhaps, that I had loved him at all. I had kept my secret only too well
+perhaps, that I had loved him at all. I had kept my secret only too well.
 He retained his wandering habits, disappearing from time to time, but
 always returning home, I believe he had no cause to complain of his
 wife. Yet I cannot help thinking that I could have fixed him and kept
@@ -7113,7 +7111,7 @@ of one of his favourite wines:--
      Egli è il vero oro potabile,
      Che mandar suole in esilio
      Ogni male inrimediabile:
-     Egli è d* Elena il Nepente,
+     Egli è d'Elena il Nepente,
      Che fa stare il mondo allegro,
      Dai pensieri
      Foschi e neri
@@ -7165,8 +7163,8 @@ the cognate verbs, calvo and calvor, active,{2}
 
      2 Est et Venus Calva ob hanc causam, quod cum Galli
      Capitolium obsiderent, et deessent funes Romanis ad tormenta
-     facienda, prima. Domitia crinem suum, post caeterae matron»,
-     imitatae earn, exsecuerun^, unde facta tormenta; et post
+     facienda, prima. Domitia crinem suum, post caeterae matron,
+     imitatae earn, exsecuerune, unde facta tormenta; et post
      bellum statua Veneri hoc nomine collocata est: licet alii
      Calvam Venerem quasi puram tradant: alii Calvam, quod corda
      calviat, id est, fallat atque éludât. Quidam dicunt,
@@ -7176,7 +7174,7 @@ the cognate verbs, calvo and calvor, active,{2}
      ut Calva Venus coleretur.
      --Servius ad Aen. i.
 
-passive,{1} and deponent,{2} in Servius, Plautus, and Sallust Nobody
+passive,{1} and deponent,{2} in Servius, Plautus, and Sallust. Nobody
 pretends that the Greeks had a bald Venus. The _Venus Calva_ of the
 Romans was the _Aphrodite Dolie_ of the Greeks.{3} Beauty cannot
 co-exist with baldness; but it may and does co-exist with deceit.
@@ -7316,9 +7314,9 @@ CHAPTER XXX
 
 A CAPTIVE KNIGHT--RICHARD AND ALICE
 
-     ---dum fata, sînunt. jungamus am_ores:
-     mox veniet tenebris Mors adoperta caput:
-     jam subrepet incrs otas, nee amare deeebii,
+     ---dum fata, sînunt. jungamus amores:
+     mox veniet tenebris. Mors adoperta caput:
+     jam subrepet incra otas, nee amare deeebii,
      dicere nee ucuio blandîtias capite.
 
      Let us, while Fate allows, in love combine,
@@ -7922,7 +7920,7 @@ marrow-bone!
 
 _The Rev. Dr. Opimian._ I doubt if that would be good food for little
 Harry, notwithstanding it was Hector's way of feeding Astyanax.{1} But
-we may postpone the discussion his diet till he makes his appearance. In
+we may postpone the discussion of his diet till he makes his appearance. In
 the meantime, live in hope; but live on beef and ale.
 
 The doctor again shook him heartily by the hand, an Harry took his
@@ -7963,7 +7961,7 @@ His is another example of strange compensation; for if Morgana had
 accepted him on his first offer, Miss Niphet would not have thought
 of him; but she found him a waif and stray, a flotsam on the waters of
 love, and landed him at her feet without art or stratagem. Artlessness
-and simplicity triumphed, where the deepest design would have /ailed. I
+and simplicity triumphed, where the deepest design would have failed. I
 do not know if she had any compensation to look for; but if she had,
 she has found it; for never was a man with more qualities for domestic
 happiness, and not Pedro of Portugal himself was more overwhelmingly in
@@ -8000,7 +7998,7 @@ usual speed. He turned back with the doctor, who having declined taking
 anything before dinner but a glass of wine and a biscuit, they went up
 together to the library.
 
-They conversed only on literary subjects. The doctor, though Miss Cryll
+They conversed only on literary subjects. The doctor, though Miss Gryll
 was uppermost in his mind, determined not to originate a word respecting
 her, and Mr. Falconer, though she was also his predominant idea, felt
 that it was only over a bottle of Madeira he could unbosom himself
@@ -8009,7 +8007,7 @@ freely to the doctor.
 The doctor asked, 'What he had been reading of late? He said, 'I have
 tried many things, but I have alway returned to _Orlando Innamorato_.
 There it is on the table an old edition of the original poem.{1} The
-doctor said, have seen an old edition, something like this, on the
+doctor said, I have seen an old edition, something like this, on the
 drawing-room table at the Grange.' He was about to say something
 touching sympathy in taste, but he checked himself in time. The two
 younger sisters brought in lights. 'I observe,' said the doctor, 'that
@@ -8380,7 +8378,7 @@ _Miss Gryll._ That is an odd term, doctor.
 _The Rev. Dr. Opimian._ It relates, I imagine, to some graceful gesture
 of pantomimic dancing: for beautiful hostesses were often accomplished
 dancers. Virgil's Copa, which, by the way, is only half panegyrical,
-gives us, nevertheless, a pleasant picture in this kind It seems to have
+gives us, nevertheless, a pleasant picture in this kind. It seems to have
 been one of the great attractions of a Roman tavern: and the host, in
 looking out for a wife, was probably much influenced by her possession
 of this accomplishment. The dancing, probably, was of that kind which
@@ -8397,7 +8395,7 @@ a _semis_. If I had money, I gave it into her keeping. Never was woman
 more trustworthy. Her husband died at a farm which they possessed in
 the country. I left no means untried to visit her in her distress; for
 friends are shown in adversity. It so happened that my master had gone
-to Capua, to dispose of some cast-off finery. Seizing the opportunity, 1
+to Capua, to dispose of some cast-off finery. Seizing the opportunity, I
 persuaded a guest of ours to accompany me to the fifth milestone. He was
 a soldier, strong as Pluto. We set off before cockcrow; the moon
 shone like day; we passed through a line of tombs. My man began some
@@ -8630,7 +8628,7 @@ shone on an uncouth set of long hungry faces. Whether there was among
 them 'ae winsome wench and wawlie,' is more than I can say; but most
 probably there was, or the bogle would scarcely have been so zealous
 in the cause. Still he was late on his quest. The friars of a still
-nourishing abbey were making preparations for a festal day, and had
+flourishing abbey were making preparations for a festal day, and had
 despatched a man with a cart to the nearest town, to bring them a supply
 of good things. He was driving back his cart well loaded with beef, and
 poultry, and ham; and a supply of choice rolls, for which a goodwife
@@ -8975,7 +8973,7 @@ ever shone on any. Most earnestly do I hope that the promise of their
 marriage morning may be fulfilled in its noon and in its sunset: and
 when I add, may they all be as happy in their partners as I have been, I
 say what all who knew the excellent person beside me will feel to be
-the best good wish in my power to bestow* And now to the health of the
+the best good wish in my power to bestow. And now to the health of the
 brides and bridegrooms, in bumpers of champagne. Let all the attendants
 stand by, each with a fresh bottle, with only one uncut string. Let all
 the corks, when I give the signal, be discharged simultaneously; and we
